@@ -2,7 +2,7 @@
 ## Simple wordle game made with python
 
 ### How to run:
-Make sure python and pip are installed then run this command:
+Make sure python and pip are installed then run these command:
 ```python -m pip install termcolor colorama```
 ```python wordle.py```
 
